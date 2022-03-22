@@ -1,0 +1,68 @@
+.container{
+    overflow: hidden;
+    
+}
+
+.container a{
+  float: right;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 17px;
+}
+#right{
+    text-align: right;   
+}
+.container img{
+    width: 3%;
+}
+.div2{
+   text-align: center;
+   padding-top: 20px;
+}
+.div3{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.form1{
+    padding: 5px;
+   
+    border-radius: 50px;
+}
+.div4{
+    position:absolute;
+    bottom: 60px;
+    margin-left: 15px;
+    
+}
+.div5{
+    position: absolute;
+    bottom: 20px;
+    color: #202124;
+    
+}
+.div5 > span{
+    margin-left:15px
+}
+.rgt{
+    float: right;
+    margin-right:20px
+}
+.lst{
+    position:absolute;
+    bottom: 20px;
+    right: 1px;
+}
+.buttons{
+    text-align: center;
+    margin-top:20px;
+}
+
+a{
+    text-decoration: none;
+    color: #202124;
+}
+a:hover{
+    text-decoration: underline;
+}
